@@ -1,2 +1,18 @@
 # Python-to-Exe
-Un semplice convertitore " Python a exe " Fatto da @brentvollebregt Per info maggiori ecco il mio discord.  https://discord.gg/3jZmggJtaE
+
+ _____    _____      _____        ______       _____          ____        ______  _______   _________________                  _________________ 
+|\ \ |\ \ / /| |\ \ |\ \ |\ \ | / \ / _ /
+| |\ \ | \ \ / / | | |\ | |\ \ / /\ \ / /\ \ /\ \ / /_ / | | | || _/ / / | |//|| | | || | | | / /\ / /\ | ( / / )/ \ \ / / ( / / )/
+| |//| \ | / / /| | | || |//|| || | / /\ _/ / / /| ' | | ' _// ' | | '
+| || || |/ / /| \ _|/ | || ||| .--. || | ||/ / / | | | / /\ \ | |
+| |||/ / / / | |\ \ | |||/| | | || | | | | / // / / \ \ / //
+|| /_/ / |\ || || || |||_\ || / /// // /\ _\ ///
+| | | | / | | | | | | | | | || | | | | / | | | |/ | | |` |
+|| |_____|/ ||_____| || || || || ||/ || || || |___|
+( )/ ( )/ ( ( )/ ( )/ ( ( )/ (
+' ' ' ' ' ' ' ' ' ' ' ' '
+
+
+A simple "Python to exe" converter Made by @brentvollebregt
+For more info here is my discord.
+https://discord.gg/3jZmggJtaE
