@@ -14,5 +14,3 @@
 
 
 A simple "Python to exe" converter Made by @brentvollebregt
-For more info here is my discord.
-https://discord.gg/3jZmggJtaE
